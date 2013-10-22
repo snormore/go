@@ -1,3 +1,15 @@
 [submodule "logger"]
 	path = logger
 	url = git@github.com:snormore/gologger.git
+[submodule "wire"]
+	path = wire
+	url = git@github.com:snormore/gowire.git
+[submodule "tail"]
+	path = tail
+	url = git@github.com:snormore/gotail.git
+[submodule "pool"]
+	path = pool
+	url = git@github.com:snormore/gopool.git
+[submodule "config"]
+	path = config
+	url = git@github.com:snormore/goconfig.git
