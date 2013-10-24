@@ -13,3 +13,9 @@
 [submodule "config"]
 	path = config
 	url = git@github.com:snormore/goconfig.git
+[submodule "wire-adapters"]
+	path = wire-adapters
+	url = git@github.com:snormore/gowire-adapters
+[submodule "env"]
+	path = env
+	url = git@github.com:snormore/goenv
