@@ -19,3 +19,12 @@
 [submodule "env"]
 	path = env
 	url = git@github.com:snormore/goenv
+[submodule "push"]
+	path = push
+	url = git@github.com:snormore/gopush.git
+[submodule "wire-push"]
+	path = wire-push
+	url = git@github.com:snormore/gowire-push.git
+[submodule "wire-tail"]
+	path = wire-tail
+	url = git@github.com:snormore/gowire-tail.git
